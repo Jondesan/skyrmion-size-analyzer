@@ -1,4 +1,4 @@
-# SSA - Skyrmion size analyzer script
+# SSAs - Skyrmion size analyzer script
 A matlab script to analyse MOKE and simulation images of magnetic skyrmions.
 
 ## Info
