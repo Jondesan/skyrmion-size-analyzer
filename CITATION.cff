@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "YOUR_NAME_HERE"
+  given-names: "YOUR_NAME_HERE"
+  orcid: "https://orcid.org/0000-0001-7020-6774"
+title: "skyrmion-size-analyzer"
+version: 1.0.0
+date-released: 2022-08-11
+url: "https://github.com/Jondesan/skyrmion-size-analyzer"
