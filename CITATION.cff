@@ -4,7 +4,7 @@ authors:
 - family-names: "Huhtasalo"
   given-names: "Joonatan"
   orcid: "https://orcid.org/0000-0001-7020-6774"
-title: "skyrmion-size-analyzer"
+title: "SSAs-skyrmion-size-analyzer"
 version: 1.0.0
 date-released: 2022-08-11
 url: "https://github.com/Jondesan/skyrmion-size-analyzer"
