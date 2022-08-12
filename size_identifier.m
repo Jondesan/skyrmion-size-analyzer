@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %   Skyrmion and stripe domain size calculation script
 %   Created by Joonatan Huhtasalo
-%   Last Modified: 28.7.2022
+%   Last Modified: 12.8.2022
 %   
 %   Based on the script by Bennert Smit
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
