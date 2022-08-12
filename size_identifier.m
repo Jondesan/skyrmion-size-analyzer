@@ -55,7 +55,7 @@ for i = 1:a
     I1 = im2gray(I);%rgb2gray(I) ;
     I = imgaussfilt(I1, 0.1);
 
-
+    % Invert, if magnetic domains are black on a white background
     %I = uint8(255) - I;
     
     leve = graythresh(I);
